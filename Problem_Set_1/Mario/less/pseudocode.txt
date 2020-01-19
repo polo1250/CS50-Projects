@@ -1,0 +1,5 @@
+Get the height from the user
+Ask for the height again if it doesn't respect the specification, otherwise continue
+for each integer in the range from one to the height:
+    print a space (height - integer) times and a ('#') integer times
+    go to the next line

@@ -1,0 +1,31 @@
+.b1
+{
+    text-align: left;
+    color: blue;
+    font-style: italic;
+}
+
+#principal
+{
+    border-style: solid;
+
+}
+
+.indent
+{
+   padding-left: 10px;
+}
+
+h2
+{
+    background-color: gray;
+    color: black;
+    font-style: normal;
+}
+
+.boxed
+{
+    border-style: solid;
+    border-radius: 10px;
+
+}

@@ -1,0 +1,10 @@
+Get arguments with command line at runtime
+If argc is not equal to 2, print the Usage, then exit
+Else 
+  if argc is equal to 2, if argument not a number, print the Usage, then exit
+  else 
+    convert the argument to an integer
+    ask the user for the sentence to encipher
+    encipher the sentence using the key
+    return the ciphertext
+
